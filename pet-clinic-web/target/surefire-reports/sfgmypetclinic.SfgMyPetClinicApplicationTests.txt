@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: sfgmypetclinic.SfgMyPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.888 s - in sfgmypetclinic.SfgMyPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.366 s - in sfgmypetclinic.SfgMyPetClinicApplicationTests
