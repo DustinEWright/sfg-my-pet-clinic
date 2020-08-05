@@ -1,5 +1,5 @@
-guru\springframework\sfgmypetclinic\model\Owner.class
-guru\springframework\sfgmypetclinic\model\Pet.class
-guru\springframework\sfgmypetclinic\model\Vet.class
-guru\springframework\sfgmypetclinic\model\Person.class
-guru\springframework\sfgmypetclinic\model\PetType.class
+guru/springframework/sfgmypetclinic/model/PetType.class
+guru/springframework/sfgmypetclinic/model/Vet.class
+guru/springframework/sfgmypetclinic/model/Owner.class
+guru/springframework/sfgmypetclinic/model/Pet.class
+guru/springframework/sfgmypetclinic/model/Person.class
